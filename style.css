@@ -1,0 +1,57 @@
+/* body */
+body{
+  text-align: center;
+  padding: 5% 20%;
+}
+/* heading */
+.title{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 4rem;
+}
+
+/* about */
+.about{
+  text-align: left;
+  /* padding-right: 25%; */
+  margin-top: 10%;
+}
+.kamalimg1{
+  display: block;
+  margin:0;
+  padding:0;
+}
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* filmography */
+.sub-heading{
+  font-family: 'Domine', serif;
+  text-align: left;
+  margin-top: 10%;
+}
+
+  /* intresting facts */
+li{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+  font-size: 1.25rem;
+  margin-top: 2.5%;
+}
+ /* other business */
+ .sub-heading-1{
+   font-family: 'Domine', serif;
+   text-align: left;
+   margin-top: 10%;
+   font-size: 1.75rem;
+ }
+ ul{
+   text-align: left;
+   padding-right: 40%;
+ }
+.otherimg{
+  margin-top: 6%;
+}
+.otherimg1{
+  margin-top: 15%;
+}
